@@ -12,4 +12,14 @@ public class LogUtils {
             Log.e("MyTag", msg);
         }
     }
+
+    public static void show(Object msg) {
+        if (msg == null) {
+            Log.e("MyTag", "我是null");
+        } else if (msg.equals("")) {
+            Log.e("MyTag", "我是\"\"");
+        } else {
+            Log.e("MyTag", String.valueOf(msg));
+        }
+    }
 }
