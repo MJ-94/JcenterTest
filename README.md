@@ -8,7 +8,7 @@ and for Maven:<br>
 &lt;dependency&gt;<br>
 &nbsp;&nbsp;&lt;groupId&gt;com.first&lt;/groupId&gt;<br>
 &nbsp;&nbsp;&lt;artifactId&gt;JcenterTest&lt;/artifactId&gt;<br>
-&nbsp;&nbsp;&lt;version&gt;1.0.2&lt;/version&gt;<br>
+&nbsp;&nbsp;&lt;version&gt;1.0.3&lt;/version&gt;<br>
 &nbsp;&nbsp;&lt;type&gt;pom&lt;/type&gt;<br>
 &lt;/dependency&gt;<br><br>
 
