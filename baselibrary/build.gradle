@@ -30,7 +30,7 @@ publish{
     repoName = 'MyFirstTest'          // Binary上的刚才新建的仓库名（Repository）
     groupId = 'com.first'        // Jcenter上的路径，Binary上创建Package时填写的Version control项
     artifactId = 'JcenterTest'        // 项目名称，Binary上创建Package时填写的Name项
-    publishVersion = '1.0.0'          // 版本号
+    publishVersion = '1.0.1'          // 版本号
     desc = 'first test jcenter'            // 对该开源组件的说明
     website = 'https://github.com/MJ-94/JcenterTest'  // VCS地址，即填写项目上传的Github地址
 }
