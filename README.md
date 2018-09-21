@@ -2,7 +2,7 @@
 Jcenter测试专用
 
 Example for Gradle:<br>
-compile 'com.first:JcenterTest:1.0.2'<br><br>
+compile 'com.first:JcenterTest:1.0.3'<br><br>
 
 and for Maven:<br>
 &lt;dependency&gt;<br>
@@ -13,6 +13,6 @@ and for Maven:<br>
 &lt;/dependency&gt;<br><br>
 
 and for Ivy:<br>
-&lt;dependency org='com.first' name='JcenterTest' rev='1.0.2'&gt;<br>
+&lt;dependency org='com.first' name='JcenterTest' rev='1.0.3'&gt;<br>
 &nbsp;&nbsp;&lt;artifact name='JcenterTest' ext='pom' &gt;&lt;/artifact&gt;<br>
 &lt;/dependency&gt;<br>
